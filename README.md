@@ -33,3 +33,9 @@ El desarrollo de la `Plataforma` se distribuye en 5 `Momentos` con un precio Tot
   - `Bot de Telegram`: Servicio de ayuda, comunicacion y notificaciones desde Telegram
   - `App Android`: Aplicacion para dispositivos moviles para los Clientes
 - `Mantenimiento y Ajustes`: Mantenimiento y ajustes de la plataforma hasta 60 dias despues de la Entrega Final (50 USD)
+
+## Tiempos de Entrega
+
+- Tiempo Máximo: 5 meses
+- Tiempo Mínimo: 1 mes
+- Tiempo Previsto: 3 meses
